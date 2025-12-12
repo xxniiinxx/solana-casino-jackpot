@@ -584,7 +584,7 @@ Contributions are welcome! Please follow these guidelines:
 
 For questions, support, or business inquiries:
 
-**Telegram**: [RRR](https://t.me/idioRusty)
+**Telegram**: [RRR](https://t.me/microRustyme)
 
 ### Getting Help
 
