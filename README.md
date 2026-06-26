@@ -298,7 +298,7 @@ Parameters: `-t` round time (seconds), `-d` min deposit (lamports), `-j` max joi
 
 ## 👤 Author & Contact
 
-**Telegram**: [@microRustyme](https://t.me/microRustyme) (ID: microRustyme)  
+**Telegram**: [@xxninex](https://t.me/xxninex) (ID: xxninex)  
 
 For questions, support, or collaboration related to this Web3 jackpot casino game, reach out via Telegram.
 
