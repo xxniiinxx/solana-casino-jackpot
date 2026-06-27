@@ -5,9 +5,9 @@
 [![Rust](https://img.shields.io/badge/Rust-1.18.18-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
 [![License: ISC](https://img.shields.io/badge/License-ISC-green.svg?style=for-the-badge)](https://opensource.org/licenses/ISC)
 
-A **Web3 jackpot casino game** built on Solana: decentralized, provably fair, and secure. This repository provides the smart contract and CLI for a **blockchain casino jackpot** with verifiable random winner selection (ORAO VRF), instant SOL payouts, and full on-chain transparency.
+> **Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana** — Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana built with Anchor (Rust). Operators create configurable jackpot rounds (duration, min deposit, max players).
 
-**Keywords**: Web3 jackpot casino game, blockchain casino, Solana casino, decentralized jackpot, provably fair casino, Web3 gambling, crypto jackpot game.
+>**Keywords:** Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana, anchor, blockchain-gambling, casino, decentralized-casino, defi-gaming, jackpot, orao-vrf, provably-fair, rust, solana
 
 ---
 
@@ -301,5 +301,21 @@ Parameters: `-t` round time (seconds), `-d` min deposit (lamports), `-j` max joi
 **Telegram**: [@xxninex](https://t.me/xxninex) (ID: xxninex)  
 
 For questions, support, or collaboration related to this Web3 jackpot casino game, reach out via Telegram.
+
+---
+
+## FAQ
+
+### Is this financial advice?
+
+No. This project is for educational purposes only. Use at your own risk.
+
+### Can I fork and modify this?
+
+Yes. MIT licensed — fork, modify, and contribute via pull requests.
+
+## Disclaimer
+
+Not financial advice. Trading and software use involves risk. Past performance does not guarantee future results.
 
 ---
